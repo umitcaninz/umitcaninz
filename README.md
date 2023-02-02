@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umit Can INOZU</h1>
 <h3 align="center">Junior Data Scientist from Turkey</h3>
+<p align="center">I am a 3rd year student at Ankara University, Department of Statistics. I develop myself by doing projects in the field of Data Science by combining the theoretical statistics knowledge I learned at school and the software knowledge I learned on my own.</p>
 
 - 👨‍💻 My website [https://umitcaninz-multimodeldeploy-multi-model-pred-841kzy.streamlit.app](https://umitcaninz-multimodeldeploy-multi-model-pred-841kzy.streamlit.app)
 
