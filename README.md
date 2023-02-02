@@ -18,5 +18,5 @@
 
 
 <h3 align="left">Projects</h3>
-- A/B TEST --> [https://www.kaggle.com/code/umitcaninz/ab-test](https://www.kaggle.com/code/umitcaninz/ab-test)
+-  A/B TEST --> [https://www.kaggle.com/code/umitcaninz/ab-test]
 - 
