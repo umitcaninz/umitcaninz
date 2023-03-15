@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **umitcaninozu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10h8j5-y7AFIu9tYvvBkJUYEDzdokiFjK/view?usp=share_link](https://drive.google.com/file/d/10h8j5-y7AFIu9tYvvBkJUYEDzdokiFjK/view?usp=share_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/10h8j5-y7AFIu9tYvvBkJUYEDzdokiFjK/view?usp=share_link](https://drive.google.com/file/d/1GkM8S_sODi030Zvm3nHjzC5CwtxTsg92/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
