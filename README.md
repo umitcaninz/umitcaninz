@@ -2,11 +2,11 @@
 <h3 align="center">Junior Data Scientist from Turkey</h3>
 <p align="center">I am a 3rd year student at Ankara University, Department of Statistics. I develop myself by doing projects in the field of Data Science by combining the theoretical statistics knowledge I learned at school and the software knowledge I learned on my own.</p>
 
-- 👨‍💻 My website https://diabetes-predict.streamlit.app/
+- 👨‍💻 My website bymood.me
 
 - 📫 How to reach me **umitcaninozu@gmail.com**
 
-- 📄 Know about my experiences [[[https://drive.google.com/file/d/10h8j5-y7AFIu9tYvvBkJUYEDzdokiFjK/view?usp=share_link]](https://drive.google.com/file/d/1GFdQbJEMDh_D6uKS2nz_5mByECsfjvaU/view?usp=share_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/10h8j5-y7AFIu9tYvvBkJUYEDzdokiFjK/view?usp=share_link](https://drive.google.com/file/d/1GFdQbJEMDh_D6uKS2nz_5mByECsfjvaU/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
